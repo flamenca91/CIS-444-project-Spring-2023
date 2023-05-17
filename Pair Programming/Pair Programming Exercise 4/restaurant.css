@@ -1,0 +1,22 @@
+.menu{
+	margin: 0 auto;
+	max-width: 600px;
+}
+
+.menu h1{
+	text-align: center;
+}
+
+.menu h2{
+	margin-top: 20px;
+}
+
+.menu-items{
+	margin-left: 20px;
+}
+
+.order-summary{
+	margin-top: 20px;
+	border: 1px solid black;
+	padding: 10px;
+}
